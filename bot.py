@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import logging
 
 try:
-    token = ""
+    token = "1656962568:AAH1OAw1hEWDNVDA_C-gNBfO5ZL8-gN4d5s"
 except Exception as e:
     print("Error 001 {}".format(e.args[0]))
 
